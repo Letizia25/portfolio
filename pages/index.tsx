@@ -7,13 +7,13 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <div>
-     <title>Letizia's portfolio</title>
+     <title>Letizia&apos;s portfolio</title>
      
       <Head>  
   </Head>
 
 
-    <h1> Letizia's portfolio</h1>
+    <h1> Letizia&apos;s portfolio</h1>
 
 </div>
 
